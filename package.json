@@ -1,14 +1,11 @@
 {
-	"name": "fcc-learn-npm-package-json",
-	"dependencies": {
-		"express": "^4.14.0"
-	},
-	"main": "server.js",
-	"scripts": {
-		"start": "node server.js"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
-	}
+  "name": "fcc-learn-npm-package-json",
+  "version": "1.0.0",
+  "description": "A project for learning npm",
+  "main": "server.js",
+  "author": "Priyanka Arjun",
+  "scripts": {
+    "start": "node server.js"
+  }
 }
+
